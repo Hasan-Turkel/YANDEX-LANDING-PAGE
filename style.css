@@ -45,6 +45,9 @@ main div img {
   vertical-align: bottom;
   margin: 5px 10px;
 }
+main a:hover{
+  color: red;
+}
 main input {
   width: 600px;
   height: 38px;
