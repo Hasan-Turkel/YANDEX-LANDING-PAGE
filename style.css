@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     text-decoration: none;
+    color: black;
 }
 .top{
    text-align:right;
@@ -86,4 +87,15 @@ section{
 }
 .fa-keyboard:hover{
     opacity: 0.8;
-    
+}
+footer{
+    text-align: center;
+    margin-top: 170px;
+}
+footer li{
+    display: inline-block;
+   margin: 10px 20px;
+}
+.opacity{
+    opacity: 0.5;
+}
