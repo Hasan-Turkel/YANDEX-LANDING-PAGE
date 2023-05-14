@@ -101,3 +101,6 @@ footer li {
   opacity: 0.5;
   font-size: 14px;
 }
+footer a:hover{
+    color: red;
+}
